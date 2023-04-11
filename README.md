@@ -1,3 +1,3 @@
-# Data-Science -Iris Data 
-# iris data Using Logistic Regression From Scratch Iris Data-set
+# Data-Science - Iris Data 
+# Iris data Using Logistic Regression From Scratch Iris Data-set
 
