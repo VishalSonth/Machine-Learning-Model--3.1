@@ -1,3 +1,6 @@
-# Data-Science - Iris Data 
-# Iris data Using Logistic Regression From Scratch Iris Data-set
+Hi there,
+
+Im placing all data science projects using machine Learning Algorithms.
+
+1)  Logistic Regression using iris Dataset : 
 
